@@ -4,6 +4,8 @@
 ![](http://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask)
 ![](http://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL)
 ![](http://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.NET)
+![](http://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git)
+
 <!--
 **kho5420/kho5420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
