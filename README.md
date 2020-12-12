@@ -10,7 +10,7 @@
 [![](http://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vagrant&link=https://velog.io/@kho5420)](https://velog.io/@kho5420)
 
 ## Email
-![](http://img.shields.io/badge/Gmail-FFFFFF?style=flat-square&logo=Gmail&logo-color=white&link=kho5420@gmail.com)
+
 <a href="mailto:kho5420@gmail.com" img src="http://img.shields.io/badge/Gmail-FFFFFF?style=flat-square&logo=Gmail&logo-color=white&link=kho5420@gmail.com">kho5420@gmail.com</a></p>
 
 <!--
