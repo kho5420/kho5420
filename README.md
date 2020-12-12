@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://img.shields.io/badge/.NET-C%23-%235C2D91
 <!--
 **kho5420/kho5420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
