@@ -7,9 +7,7 @@
 ![](http://img.shields.io/badge/Git-white?style=flat-square&logo=Git)
 
 ## Tech Blog
-![](http://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vagrant&link=https://velog.io/@kho5420)
-http://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vagrant&link=https://velog.io/@kho5420
-
+[![](http://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vagrant&link=https://velog.io/@kho5420)](https://velog.io/@kho5420)
 
 ## Email
 ![](http://img.shields.io/badge/Gmail-FFFFFF?style=flat-square&logo=Gmail&logo-color=white&link=kho5420@gmail.com)
