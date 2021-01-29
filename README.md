@@ -4,8 +4,8 @@
 ![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/Vue.js-11B48A?style=flat-square&logo=Vue.js&logoColor=white)
-![](http://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.NET)
-![](http://img.shields.io/badge/Git-white?style=flat-square&logo=Git)
+![](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 ## ✍️ Tech Blog
 [![](http://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vagrant&link=https://velog.io/@kho5420)](https://velog.io/@kho5420)
