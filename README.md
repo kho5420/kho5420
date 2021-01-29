@@ -1,5 +1,5 @@
 ## 👨‍💻 Skills
-![](http://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![](http://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django)
 ![](http://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask)
 ![](http://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL)
