@@ -5,7 +5,6 @@
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/Vue.js-11B48A?style=flat-square&logo=Vue.js&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
-![](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon DynamoDB&logoColor=white)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.NET&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
